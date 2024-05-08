@@ -14,5 +14,4 @@ Créditos
 Este sistema fue desarrollado por David Sebastian Mendez Hernandez como parte de un proyecto de software para la gestión de citas médicas.
 
 Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Esto permite un uso amplio y libre siempre y cuando se incluya el crédito original del autor y se respeten los términos de la licencia. Encuentre el texto completo de la licencia en el archivo LICENSE del repositorio.
-
+Este proyecto está licenciado bajo la Licencia MIT. Esto permite un uso amplio y libre siempre y cuando se incluya el crédito original del autor y se respeten los términos de la licencia.
